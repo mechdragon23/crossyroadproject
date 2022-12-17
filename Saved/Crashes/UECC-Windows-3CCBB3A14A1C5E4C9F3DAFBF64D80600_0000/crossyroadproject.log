@@ -1,0 +1,1618 @@
+﻿Log file open, 11/11/22 17:54:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=35660)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: crossyroadproject
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "B:/Users/alex/Documents/Unreal Projects/crossyroadproject/crossyroadproject.uproject" -EpicPortal -epicusername=mechdragon77 -epicuserid=de3981428750468e872605b5f3421fdf -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2130] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 7 5800X3D 8-Core Processor"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="8cad67594b725733abd015a268efecf4"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.225590
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-3CCBB3A14A1C5E4C9F3DAFBF64D80600
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.02 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.04 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2130] (), CPU: AMD Ryzen 7 5800X3D 8-Core Processor           , GPU: NVIDIA GeForce RTX 3080 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=mechdragon77 -epicuserid=de3981428750468e872605b5f3421fdf -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Unreal Engine 5/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.11.12-01.54.02:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.11.12-01.54.02:816][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.11.12-01.54.02:816][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.11.12-01.54.02:823][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.11.12-01.54.02:835][  0]LogD3D12RHI: Aftermath initialized
+[2022.11.12-01.54.02:835][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.11.12-01.54.02:954][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3080 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.11.12-01.54.02:954][  0]LogD3D12RHI: Adapter has 12108MB of dedicated video memory, 0MB of dedicated system memory, and 16338MB of shared system memory, 3 output[s]
+[2022.11.12-01.54.02:958][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.11.12-01.54.02:958][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16338MB of shared system memory, 0 output[s]
+[2022.11.12-01.54.02:958][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.11.12-01.54.02:958][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.12-01.54.02:958][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.11.12-01.54.02:959][  0]LogHAL: Display: Platform has ~ 32 GB [34263695360 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.12-01.54.02:959][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.11.12-01.54.02:959][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.11.12-01.54.02:959][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.12-01.54.02:959][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.11.12-01.54.02:959][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/Config/WindowsEditor/Editor.ini]
+[2022.11.12-01.54.02:959][  0]LogInit: Computer: DESKTOP-37S2PHV
+[2022.11.12-01.54.02:959][  0]LogInit: User: atau2
+[2022.11.12-01.54.02:959][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.12-01.54.02:959][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.12-01.54.02:959][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.11.12-01.54.02:959][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.11.12-01.54.02:959][  0]LogMemory: Process Physical Memory: 278.71 MB used, 287.99 MB peak
+[2022.11.12-01.54.02:959][  0]LogMemory: Process Virtual Memory: 246.16 MB used, 246.16 MB peak
+[2022.11.12-01.54.02:959][  0]LogMemory: Physical Memory: 12124.62 MB used,  20551.79 MB free, 32676.41 MB total
+[2022.11.12-01.54.02:959][  0]LogMemory: Virtual Memory: 16943.44 MB used,  22346.37 MB free, 39289.80 MB total
+[2022.11.12-01.54.02:959][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.11.12-01.54.02:963][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.12-01.54.02:977][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.11.12-01.54.02:978][  0]LogInit: Using OS detected language (en-US).
+[2022.11.12-01.54.02:978][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.12-01.54.02:984][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.11.12-01.54.03:096][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.12-01.54.03:106][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.11.12-01.54.03:106][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.11.12-01.54.03:106][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Touch Input Correction (TSF IME).
+[2022.11.12-01.54.03:106][  0]LogWindowsTextInputMethodSystem:   - English (United States) - Ink Correction (TSF IME).
+[2022.11.12-01.54.03:106][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.11.12-01.54.03:124][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.12-01.54.03:124][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.12-01.54.03:226][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.11.12-01.54.03:229][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.11.12-01.54.03:229][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.11.12-01.54.03:288][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.11.12-01.54.03:288][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.11.12-01.54.03:289][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.11.12-01.54.03:349][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.11.12-01.54.03:354][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.11.12-01.54.03:365][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.11.12-01.54.03:387][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.11.12-01.54.03:387][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.11.12-01.54.03:412][  0]LogD3D12RHI:     GPU DeviceId: 0x2208 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.12-01.54.03:412][  0]LogWindows: Attached monitors:
+[2022.11.12-01.54.03:412][  0]LogWindows:     resolution: 2560x1440, work area: (0, 0) -> (2560, 1400), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.11.12-01.54.03:412][  0]LogWindows:     resolution: 1440x2560, work area: (2560, -672) -> (4000, 1888), device: '\\.\DISPLAY2'
+[2022.11.12-01.54.03:412][  0]LogWindows:     resolution: 2560x1440, work area: (-2560, 0) -> (0, 1440), device: '\\.\DISPLAY3'
+[2022.11.12-01.54.03:412][  0]LogWindows: Found 3 attached monitors.
+[2022.11.12-01.54.03:412][  0]LogWindows: EnumDisplayDevices:
+[2022.11.12-01.54.03:412][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.11.12-01.54.03:412][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:1), name: '\\.\DISPLAY2'
+[2022.11.12-01.54.03:412][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:1), name: '\\.\DISPLAY3'
+[2022.11.12-01.54.03:413][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.11.12-01.54.03:413][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.12-01.54.03:413][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3080 Ti
+[2022.11.12-01.54.03:413][  0]LogD3D12RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.11.12-01.54.03:413][  0]LogD3D12RHI:      Driver Date: 3-17-2022
+[2022.11.12-01.54.03:413][  0]LogRHI: Texture pool is 7144 MB (70% of 10206 MB)
+[2022.11.12-01.54.03:413][  0]LogD3D12RHI: Async texture creation enabled
+[2022.11.12-01.54.03:413][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.11.12-01.54.03:421][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.11.12-01.54.06:845][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce RTX 3080 Ti
+Installed: 512.15
+Recommended: 516.25
+[2022.11.12-01.54.06:852][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/crossyroadproject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/TurnkeyReport_0.log" -log="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/TurnkeyLog_0.log" -project="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/crossyroadproject.uproject"  -platform=all'
+[2022.11.12-01.54.06:852][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Unreal Engine 5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/crossyroadproject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/TurnkeyReport_0.log" -log="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/TurnkeyLog_0.log" -project="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/crossyroadproject.uproject"  -platform=all" ]
+[2022.11.12-01.54.06:871][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.11.12-01.54.06:879][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.11.12-01.54.06:879][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.12-01.54.06:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.12-01.54.06:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.11.12-01.54.06:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.11.12-01.54.06:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.12-01.54.06:906][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.12-01.54.06:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.12-01.54.06:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.11.12-01.54.06:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.12-01.54.06:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.12-01.54.06:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.11.12-01.54.06:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.11.12-01.54.06:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.11.12-01.54.06:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.12-01.54.06:915][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.12-01.54.06:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.12-01.54.06:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.11.12-01.54.06:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.12-01.54.06:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.12-01.54.06:920][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.11.12-01.54.06:928][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.12-01.54.06:930][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.11.12-01.54.06:930][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.11.12-01.54.06:930][  0]LogTargetPlatformManager:   ADPCM
+[2022.11.12-01.54.06:930][  0]LogTargetPlatformManager:   PCM
+[2022.11.12-01.54.06:932][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.11.12-01.54.06:933][  0]LogTargetPlatformManager:   BINKA
+[2022.11.12-01.54.06:933][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.11.12-01.54.06:933][  0]LogTargetPlatformManager:   OGG
+[2022.11.12-01.54.06:933][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.11.12-01.54.06:933][  0]LogTargetPlatformManager:   OPUS
+[2022.11.12-01.54.06:967][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.11.12-01.54.06:967][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   SF_METAL
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.11.12-01.54.06:972][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.11.12-01.54.06:975][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.11.12-01.54.06:975][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.11.12-01.54.06:975][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.11.12-01.54.06:975][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.11.12-01.54.06:975][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.11.12-01.54.06:975][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.11.12-01.54.06:975][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.11.12-01.54.06:975][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.12-01.54.06:975][  0]LogShaderCompilers: Display: Compiling shader autogen file: B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.11.12-01.54.06:975][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.12-01.54.06:976][  0]LogShaderCompilers: Display: Compiling shader autogen file: B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.11.12-01.54.06:976][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.11.12-01.54.06:977][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file B:/Users/alex/Documents/Unreal Projects/crossyroadproject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.12-01.54.06:977][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.11.12-01.54.06:977][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file B:/Users/alex/Documents/Unreal Projects/crossyroadproject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.12-01.54.06:977][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.11.12-01.54.06:994][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.11.12-01.54.06:995][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.12-01.54.06:995][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.11.12-01.54.07:001][  0]LogDerivedDataCache: Speed tests for C:/Users/atau2/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.12-01.54.07:001][  0]LogDerivedDataCache: Display: Performance to C:/Users/atau2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1521.09MBs, RandomWriteSpeed=192.69MBs. Assigned SpeedClass 'Local'
+[2022.11.12-01.54.07:001][  0]LogDerivedDataCache: Using Local data cache path C:/Users/atau2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.12-01.54.07:001][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.12-01.54.07:001][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.11.12-01.54.07:005][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.11.12-01.54.07:005][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.11.12-01.54.07:005][  0]LogShaderCompilers: Guid format shader working directory is -12 characters bigger than the processId version (B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/Shaders/WorkingDirectory/23880/).
+[2022.11.12-01.54.07:005][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/atau2/AppData/Local/Temp/UnrealShaderWorkingDir/453497E64C417AE7B55C098C2101678A/'.
+[2022.11.12-01.54.07:006][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.12-01.54.07:006][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2022.11.12-01.54.08:092][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.12-01.54.08:092][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.12-01.54.08:119][  0]LogAssetRegistry: FAssetRegistry took 0.0091 seconds to start up
+[2022.11.12-01.54.08:124][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.11.12-01.54.08:267][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.11.12-01.54.08:268][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.11.12-01.54.08:486][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.11.12-01.54.08:486][  0]LogDeviceProfileManager: Active device profile: [0000089BF65F2840][0000089BDBE00000 50] WindowsEditor
+[2022.11.12-01.54.08:486][  0]LogDeviceProfileManager: Profiles: [0000089BF65F2300][0000089BEAF50000 50] Windows, [0000089BF65F2840][0000089BDBE00000 50] WindowsEditor, [0000089BF65F1F80][0000089BF65C0000 50] WindowsServer, [0000089BF65F1DC0][0000089BF65C5000 50] WindowsClient, [0000089BF65F1C00][0000089BF65C7800 50] IOS, [0000089BF65F1A40][0000089BF65CA000 50] iPadAir2, [0000089BF65F5080][0000089BEAF15000 50] IPadPro, [0000089BF65F5400][0000089BF65CC800 50] iPadAir3, [0000089BF65F4D00][0000089BF6600000 50] iPadAir4, [0000089BF65F0C40][0000089BF6605000 50] iPadMini4, [0000089BF65F08C0][0000089BF6607800 50] iPadMini5, [0000089BF65F55C0][0000089BF660A000 50] iPadMini6, [0000089BF65F7C40][0000089BF6640000 50] iPhone6S, [0000089BF65F7FC0][0000089BF6642800 50] iPhone7, [0000089BF65F8340][0000089BF6645000 50] iPodTouch7, [0000089BF65F47C0][0000089BF664A000 50] iPhone6SPlus, [0000089BF65F5E80][0000089BF664C800 50] iPhone7Plus, [0000089BF65F39C0][0000089BF65C2800 50] iPhoneSE, [0000089BF65F0000][0000089BF660C800 50] iPhone8, [0000089BF65F4440][0000089BF6647800 50] iPhone8Plus, [0000089BF65F6740][0000089BF6650000 50] iPhoneX, [0000089BF65F2D80][0000089BF6655000 50] iPhoneXS, [0000089BF65F0540][0000089BF6657800 50] iPhoneXSMax, [0000089BF65F7380][0000089BF665A000 50] iPhoneXR, [0000089BF65F3800][0000089BF665C800 50] iPhone11, [0000089BF65F0A80][0000089BF6602800 50] iPhone11Pro, [0000089BF65F6040][0000089BF6660000 50] iPhone11ProMax, [0000089BF65F4980][0000089BF6665000 50] iPhoneSE2, [0000089BF65F01C0][0000089BF6667800 50] iPhone12Mini, [0000089BF65F7E00][0000089BF666A000 50] iPhone12, [0000089BF65F5CC0][0000089BF666C800 50] iPhone12Pro, [0000089BF65F6900][0000089BF6652800 50] iPhone12ProMax, [0000089BF65F1880][0000089BF6670000 50] iPhone13Mini, [0000089BF65F5240][0000089BF6675000 50] iPhone13, [0000089BF65F1180][0000089BF6677800 50] iPhone13Pro, [0000089BF65F6E40][0000089BF667A000 50] iPhone13ProMax, [0000089BF65F5940][0000089BF667C800 50] iPadPro105, [0000089BF65F3B80][0000089BF6662800 50] iPadPro129, [0000089BF65F0E00][0000089BF6610000 50] iPadPro97, [0000089BF65F7000][0000089BF6615000 50] iPadPro2_129, [0000089BF65F16C0][0000089BF6617800 50] iPad5, [0000089BF65F8C00][0000089BF661A000 50] iPad6, [0000089BF65F6C80][0000089BF661C800 50] iPad7, [0000089BF65F0FC0][0000089BF6672800 50] iPad8, [0000089BF65F0380][0000089BF6620000 50] iPad9, [0000089BF65F4600][0000089BF6625000 50] iPadPro11, [0000089BF65F7540][0000089BF6627800 50] iPadPro2_11, [0000089BF65F4B40][0000089BF662A000 50] iPadPro3_11, [0000089BF65F6580][0000089BF662C800 50] iPadPro3_129, [0000089BF65F86C0][0000089BF6612800 50] iPadPro4_129, [0000089BF65F8180][0000089BF6630000 50] iPadPro5_129, [0000089BF65F63C0][0000089BF6635000 50] AppleTV, [0000089BF65F5B00][0000089BF6637800 50] AppleTV4K, [0000089BF65F5780][0000089BF663A000 50] TVOS, [0000089BF65FA800][0000089BF6622800 50] Mac, [0000089BF65FAB80][0000089BF663C800 50] MacEditor, [0000089BF65F3F00][0000089BF6690000 50] MacClient, [0000089BF65FA2C0][0000089BF6695000 50] MacServer, [0000089BF65F2140][0000089BF669A000 50] Linux, [0000089BF65F40C0][0000089BF6697800 50] LinuxEditor, [0000089BF65FA480][0000089BF669C800 50] LinuxArm64Editor, [0000089BF65F4280][0000089BF6632800 50] LinuxArm64, [0000089BF65F9140][0000089BF66A0000 50] LinuxClient, [0000089BF65F78C0][0000089BF66A5000 50] LinuxArm64Client, [0000089BF65F8DC0][0000089BF66A7800 50] LinuxServer, [0000089BF65F9F40][0000089BF66AA000 50] LinuxArm64Server, [0000089BF65F9840][0000089BF66AC800 50] Android, [0000089BF65F2A00][0000089BF6692800 50] Android_Preview_OpenGL, [0000089BF65F8500][0000089BF66B0000 50] Android_Preview_Vulkan, [0000089BF65F32C0][0000089BF66B5000 50] Android_Low, [0000089BF65FA640][0000089BF66B7800 50] Android_Mid, [0000089BF65F4EC0][0000089BF66BA000 50] Android_High, [0000089BF65F0700][0000089BF66BC800 50] Android_Default, [0000089BF65F8880][0000089BF66A2800 50] Android_Adreno4xx, [0000089BF65F1340][0000089BF66C0000 50] Android_Adreno5xx_Low, [0000089BF65F7700][0000089BF66C5000 50] Android_Adreno5xx, [0000089BF65FAD40][0000089BF66C7800 50] Android_Adreno6xx, [0000089BF65F2BC0][0000089BF66CA000 50] Android_Adreno6xx_Vulkan, [0000089BF65FB600][0000089BF66CC800 50] Android_Adreno7xx, [0000089BF65F2F40][0000089BF66B2800 50] Android_Adreno7xx_Vulkan, [0000089BF65F8A40][0000089BF66D0000 50] Android_Mali_T6xx, [0000089BF65F6200][0000089BF66D5000 50] Android_Mali_T7xx, [0000089BF65F9D80][0000089BF66D7800 50] Android_Mali_T8xx, [0000089BF65F8F80][0000089BF66DA000 50] Android_Mali_G71, [0000089BF65F94C0][0000089BF66DC800 50] Android_Mali_G72, [0000089BF65FBD00][0000089BF66C2800 50] Android_Mali_G72_Vulkan, [0000089BF65F3100][0000089BF66E0000 50] Android_Mali_G76, [0000089BF65FC5C0][0000089BF66E5000 50] Android_Mali_G76_Vulkan, [0000089BF65FBB40][0000089BF66E7800 50] Android_Mali_G77, [0000089BF65F3D40][0000089BF66EA000 50] Android_Mali_G77_Vulkan, [0000089BF65F6AC0][0000089BF66EC800 50] Android_Mali_G78, [0000089BF65F3640][0000089BF66D2800 50] Android_Mali_G78_Vulkan, [0000089BF65F7A80][0000089BF66F0000 50] Android_Mali_G710, [0000089BF65FB980][0000089BF66F5000 50] Android_Mali_G710_Vulkan, [0000089BF65FCCC0][0000089BF66F7800 50] Android_Xclipse_920, [0000089BF65FAF00][0000089BF66FA000 50] Android_Xclipse_920_Vulkan, [0000089BF65FD580][0000089BF66FC800 50] Android_Vulkan_SM5, [0000089BF65FCB00][0000089BF66E2800 50] Android_PowerVR_G6xxx, [0000089BF65FB7C0][0000089BF6700000 50] Android_PowerVR_GT7xxx, [0000089BF65FCE80][0000089BF6705000 50] Android_PowerVR_GE8xxx, [0000089BF65FD900][0000089BF6707800 50] Android_PowerVR_GM9xxx, [0000089BF65FB440][0000089BF670A000 50] Android_PowerVR_GM9xxx_Vulkan, [0000089BF65FC780][0000089BF670C800 50] Android_TegraK1, [0000089BF65FDE40][0000089BF66F2800 50] Android_Unknown_Vulkan, [0000089BF65FB0C0][0000089BF6710000 50] Oculus_Quest, [0000089BF65FEA80][0000089BF6715000 50] Oculus_Quest2, [0000089BF65F9300][0000089BF6717800 50] HoloLens, 
+[2022.11.12-01.54.08:486][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.11.12-01.54.08:503][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.11.12-01.54.08:656][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.12-01.54.08:656][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.12-01.54.08:656][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.12-01.54.08:656][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.12-01.54.08:656][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.12-01.54.08:673][  0]LogNetVersion: crossyroadproject 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3196343799)
+[2022.11.12-01.54.08:769][  0]LogSlate: Border
+[2022.11.12-01.54.08:769][  0]LogSlate: BreadcrumbButton
+[2022.11.12-01.54.08:769][  0]LogSlate: Default
+[2022.11.12-01.54.08:769][  0]LogSlate: Icons.Save
+[2022.11.12-01.54.08:769][  0]LogSlate: Icons.Toolbar.Settings
+[2022.11.12-01.54.08:769][  0]LogSlate: ListView
+[2022.11.12-01.54.08:769][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.11.12-01.54.08:769][  0]LogSlate: SoftwareCursor_Grab
+[2022.11.12-01.54.08:769][  0]LogSlate: TableView.DarkRow
+[2022.11.12-01.54.08:769][  0]LogSlate: TableView.Row
+[2022.11.12-01.54.08:769][  0]LogSlate: TreeView
+[2022.11.12-01.54.08:895][  0]SourceControl: Source control is disabled
+[2022.11.12-01.54.08:917][  0]SourceControl: Source control is disabled
+[2022.11.12-01.54.08:917][  0]SourceControl: Source control is disabled
+[2022.11.12-01.54.09:005][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.11.12-01.54.09:005][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.11.12-01.54.09:005][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.12-01.54.09:279][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: ECEEDC6F4C6D215F491EF5AC20D358EB | Instance: 65AEEA7B40D185963B6E15ABB4BE70BF (DESKTOP-37S2PHV-23880).
+[2022.11.12-01.54.09:325][  0]LogPython: Using Python 3.9.7
+[2022.11.12-01.54.09:997][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.12-01.54.10:002][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.12-01.54.10:254][  0]SourceControl: Source control is disabled
+[2022.11.12-01.54.10:257][  0]SourceControl: Source control is disabled
+[2022.11.12-01.54.10:268][  0]SourceControl: Source control is disabled
+[2022.11.12-01.54.10:271][  0]LogUProjectInfo: Found projects:
+[2022.11.12-01.54.10:274][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.12-01.54.10:274][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.12-01.54.10:275][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.12-01.54.10:331][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.12-01.54.10:381][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.12-01.54.10:401][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.12-01.54.10:401][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.12-01.54.10:484][  0]LogCollectionManager: Loaded 0 collections in 0.001873 seconds
+[2022.11.12-01.54.10:556][  0]LogFileCache: Scanning file cache for directory 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/Collections/' took 0.00s
+[2022.11.12-01.54.10:556][  0]LogFileCache: Scanning file cache for directory 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/Developers/atau2/Collections/' took 0.00s
+[2022.11.12-01.54.10:556][  0]LogFileCache: Scanning file cache for directory 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/Collections/' took 0.00s
+[2022.11.12-01.54.10:775][  0]LogEngine: Initializing Engine...
+[2022.11.12-01.54.10:786][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.11.12-01.54.10:787][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.12-01.54.10:986][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.12-01.54.10:987][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.12-01.54.10:995][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.54.11:018][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.12-01.54.11:019][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.12-01.54.11:038][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.12-01.54.11:038][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.12-01.54.11:038][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.11.12-01.54.11:038][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.12-01.54.11:039][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.12-01.54.11:039][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.12-01.54.11:039][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.12-01.54.11:039][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.12-01.54.11:039][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.12-01.54.11:039][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.12-01.54.11:039][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.12-01.54.11:039][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.12-01.54.11:039][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.12-01.54.11:039][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.12-01.54.11:039][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.12-01.54.11:039][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.12-01.54.11:046][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.12-01.54.11:080][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- High Definition Audio Device)
+[2022.11.12-01.54.11:080][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.12-01.54.11:082][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.12-01.54.11:082][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.12-01.54.11:082][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.11.12-01.54.11:082][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.11.12-01.54.11:083][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.11.12-01.54.11:083][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.11.12-01.54.11:083][  0]LogInit: FAudioDevice initialized.
+[2022.11.12-01.54.11:083][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.12-01.54.11:083][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.12-01.54.11:083][  0]LogInit: Texture streaming: Enabled
+[2022.11.12-01.54.11:111][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.11.12-01.54.11:119][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.12-01.54.11:137][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.11.12-01.54.11:143][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.11.12-01.54.11:143][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.11.12-01.54.12:050][  0]LogLiveCoding: Display: First instance in process group "UE_crossyroadproject_0x3a1f9d00", spawning console
+[2022.11.12-01.54.12:050][  0]LogLiveCoding: Display: Waiting for server
+[2022.11.12-01.54.12:050][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.11.12-01.54.12:069][  0]LogInit: Transaction tracking system initialized
+[2022.11.12-01.54.12:136][  0]BlueprintLog: New page: Editor Load
+[2022.11.12-01.54.12:297][  0]LocalizationService: Localization service is disabled
+[2022.11.12-01.54.12:335][  0]TimingProfiler: Initialize
+[2022.11.12-01.54.12:335][  0]TimingProfiler: OnSessionChanged
+[2022.11.12-01.54.12:335][  0]LoadingProfiler: Initialize
+[2022.11.12-01.54.12:335][  0]LoadingProfiler: OnSessionChanged
+[2022.11.12-01.54.12:335][  0]NetworkingProfiler: Initialize
+[2022.11.12-01.54.12:335][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.12-01.54.12:336][  0]MemoryProfiler: Initialize
+[2022.11.12-01.54.12:336][  0]MemoryProfiler: OnSessionChanged
+[2022.11.12-01.54.12:484][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.12-01.54.12:484][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.12-01.54.12:484][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.11.12-01.54.12:764][  0]LogFileCache: Scanning file cache for directory 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/' took 0.01s
+[2022.11.12-01.54.12:764][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.11.12-01.54.12:916][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.12-01.54.12:918][  0]SourceControl: Source control is disabled
+[2022.11.12-01.54.13:024][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.12-01.54.22:400][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.11.12-01.54.22:407][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.561
+[2022.11.12-01.54.22:408][  0]Cmd: MAP LOAD FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.12-01.54.22:408][  0]LightingResults: New page: Lighting Build
+[2022.11.12-01.54.22:414][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-01.54.22:414][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-01.54.22:414][  0]MapCheck: New page: Map Check
+[2022.11.12-01.54.22:414][  0]LightingResults: New page: Lighting Build
+[2022.11.12-01.54.22:419][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.12-01.54.22:421][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.12-01.54.22:675][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2022.11.12-01.54.22:686][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.54.22:686][  0]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2022.11.12-01.54.22:687][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.11.12-01.54.22:687][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2022.11.12-01.54.22:743][  0]LogWorldPartition: Display: WorldPartition initialize took 55 ms
+[2022.11.12-01.54.22:745][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.12-01.54.22:752][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.12-01.54.22:752][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.12-01.54.22:752][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2022.11.12-01.54.22:752][  0]LogFileHelpers: Loading map 'ThirdPersonMap' took 0.344
+[2022.11.12-01.54.22:764][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.918
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: ================================================
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.11.12-01.54.22:764][  0]LogShaderCompilers: Display: ================================================
+[2022.11.12-01.54.22:796][  0]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.11.12-01.54.22:802][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.12-01.54.22:805][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.12-01.54.22:809][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.12-01.54.22:812][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.12-01.54.22:827][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:827][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:828][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:828][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:828][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:828][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:829][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:829][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:829][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:829][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:829][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:829][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:830][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:830][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:830][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:830][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:831][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:831][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:831][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.11.12-01.54.22:831][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.11.12-01.54.22:831][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Unreal Engine 5/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.11.12-01.54.22:958][  0]LogSlate: Took 0.000094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.12-01.54.22:960][  0]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.12-01.54.22:961][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.12-01.54.22:961][  0]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.12-01.54.22:984][  0]LogViewport: Scene viewport resized to 1612x820, mode Windowed.
+[2022.11.12-01.54.23:028][  0]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.12-01.54.23:299][  0]LogStall: Startup...
+[2022.11.12-01.54.23:300][  0]LogStall: Startup complete.
+[2022.11.12-01.54.23:320][  0]LogLoad: (Engine Initialization) Total time: 21.47 seconds
+[2022.11.12-01.54.23:320][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.12-01.54.23:362][  0]LogAssetRegistry: Asset discovery search completed in 15.2436 seconds
+[2022.11.12-01.54.23:365][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.11.12-01.54.23:368][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.12-01.54.26:639][282]LogViewport: Scene viewport resized to 800x376, mode Windowed.
+[2022.11.12-01.54.28:893][282]LogViewport: Scene viewport resized to 1612x820, mode Windowed.
+[2022.11.12-01.54.30:187][413]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.11.12-01.54.30:187][413]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2022.11.12-01.54.30:187][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.54.31:012][413]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.11.12-01.54.31:012][413]LogLinker: Warning: [AssetLog] B:\Users\alex\Documents\Unreal Projects\crossyroadproject\Content\crossyroadassets\rock\rock.uasset: Failed to load '/Game/crossyroadassets/rock/palette_004': Can't find file.
+[2022.11.12-01.54.31:012][413]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/crossyroadassets/rock/palette_004'
+[2022.11.12-01.54.31:013][413]LogLinker: Warning: [AssetLog] B:\Users\alex\Documents\Unreal Projects\crossyroadproject\Content\crossyroadassets\tree\tree.uasset: Failed to load '/Game/crossyroadassets/tree/palette_005': Can't find file.
+[2022.11.12-01.54.31:013][413]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/crossyroadassets/tree/palette_005'
+[2022.11.12-01.54.31:017][413]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner
+[2022.11.12-01.54.31:017][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.54.31:266][413]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/ThirdPerson/Blueprints/grasslane.grasslane) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.11.12-01.54.31:268][413]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/grasslane.grasslane
+[2022.11.12-01.54.31:268][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.54.31:515][413]LogPackageName: Warning: FPackagePath::TryFromMountedName was passed an ObjectPath (/Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor) rather than a PackageName or FilePath; it will be converted to the PackageName. Accepting ObjectPaths is deprecated behavior and will be removed in a future release; TryFromMountedName will fail on ObjectPaths.
+[2022.11.12-01.54.31:521][413]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Floor.M_Basic_Floor
+[2022.11.12-01.54.31:522][413]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 7C26F444179A2F670005EBDF5951089F1B2B83B5), compiling. 
+[2022.11.12-01.54.31:576][413]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.54.31:639][413]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Floor in PCD3D_SM5, Default, SM5 (DDC key hash: 7CE897487F1B9FEA4E3E1FAA7CE6263845C067C5), compiling. 
+[2022.11.12-01.54.31:642][413]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Floor in PCD3D_SM5, Default, SM5 (DDC key hash: C744B81432F50E38856A507E7A764482857F4216), compiling. 
+[2022.11.12-01.54.31:644][413]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: B89DEF8AF3D7AE3EA218AD969FEF0D0E98B86AC1), compiling. 
+[2022.11.12-01.54.31:665][413]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.12-01.54.31:665][413]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-01.54.31:665][413]MaterialEditorStats: Shader Count: 0
+[2022.11.12-01.54.31:671][413]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.12-01.54.31:674][413]LogViewport: Scene viewport resized to 439x384, mode Windowed.
+[2022.11.12-01.54.32:617][474]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.12-01.54.32:617][474]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-01.54.32:617][474]MaterialEditorStats: Shader Count: 4
+[2022.11.12-01.54.33:697][586]LogViewport: Scene viewport resized to 800x376, mode Windowed.
+[2022.11.12-01.54.38:043][818]LogViewport: Scene viewport resized to 800x377, mode Windowed.
+[2022.11.12-01.54.38:099][818]LogViewport: Scene viewport resized to 805x386, mode Windowed.
+[2022.11.12-01.54.38:162][818]LogViewport: Scene viewport resized to 827x408, mode Windowed.
+[2022.11.12-01.54.38:218][818]LogViewport: Scene viewport resized to 856x433, mode Windowed.
+[2022.11.12-01.54.38:280][818]LogViewport: Scene viewport resized to 880x449, mode Windowed.
+[2022.11.12-01.54.38:329][818]LogViewport: Scene viewport resized to 884x452, mode Windowed.
+[2022.11.12-01.54.38:390][818]LogViewport: Scene viewport resized to 888x454, mode Windowed.
+[2022.11.12-01.54.38:446][818]LogViewport: Scene viewport resized to 893x456, mode Windowed.
+[2022.11.12-01.54.38:501][818]LogViewport: Scene viewport resized to 896x458, mode Windowed.
+[2022.11.12-01.54.38:558][818]LogViewport: Scene viewport resized to 900x461, mode Windowed.
+[2022.11.12-01.54.38:614][818]LogViewport: Scene viewport resized to 900x463, mode Windowed.
+[2022.11.12-01.54.38:690][818]LogViewport: Scene viewport resized to 900x464, mode Windowed.
+[2022.11.12-01.54.38:877][818]LogViewport: Scene viewport resized to 900x465, mode Windowed.
+[2022.11.12-01.54.38:940][818]LogViewport: Scene viewport resized to 900x469, mode Windowed.
+[2022.11.12-01.54.38:996][818]LogViewport: Scene viewport resized to 900x470, mode Windowed.
+[2022.11.12-01.54.39:058][818]LogViewport: Scene viewport resized to 900x479, mode Windowed.
+[2022.11.12-01.54.39:113][818]LogViewport: Scene viewport resized to 900x493, mode Windowed.
+[2022.11.12-01.54.39:169][818]LogViewport: Scene viewport resized to 900x500, mode Windowed.
+[2022.11.12-01.54.39:231][818]LogViewport: Scene viewport resized to 900x514, mode Windowed.
+[2022.11.12-01.54.39:294][818]LogViewport: Scene viewport resized to 900x536, mode Windowed.
+[2022.11.12-01.54.39:349][818]LogViewport: Scene viewport resized to 900x555, mode Windowed.
+[2022.11.12-01.54.39:411][818]LogViewport: Scene viewport resized to 900x566, mode Windowed.
+[2022.11.12-01.54.39:467][818]LogViewport: Scene viewport resized to 900x567, mode Windowed.
+[2022.11.12-01.54.39:585][818]LogViewport: Scene viewport resized to 900x566, mode Windowed.
+[2022.11.12-01.54.39:648][818]LogViewport: Scene viewport resized to 900x560, mode Windowed.
+[2022.11.12-01.54.39:703][818]LogViewport: Scene viewport resized to 900x548, mode Windowed.
+[2022.11.12-01.54.39:759][818]LogViewport: Scene viewport resized to 900x541, mode Windowed.
+[2022.11.12-01.54.39:823][818]LogViewport: Scene viewport resized to 900x536, mode Windowed.
+[2022.11.12-01.54.39:878][818]LogViewport: Scene viewport resized to 900x530, mode Windowed.
+[2022.11.12-01.54.40:078][818]LogViewport: Scene viewport resized to 900x531, mode Windowed.
+[2022.11.12-01.54.40:133][818]LogViewport: Scene viewport resized to 900x538, mode Windowed.
+[2022.11.12-01.54.40:189][818]LogViewport: Scene viewport resized to 900x542, mode Windowed.
+[2022.11.12-01.54.40:245][818]LogViewport: Scene viewport resized to 900x543, mode Windowed.
+[2022.11.12-01.54.45:467][289]LogViewport: Scene viewport resized to 504x629, mode Windowed.
+[2022.11.12-01.55.07:742][913]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-01.55.07:742][913]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-01.55.20:810][441]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/grasslane.grasslane
+[2022.11.12-01.55.20:810][441]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.55.25:741][996]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-01.55.25:741][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-01.55.25:775][996]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/grasslane.grasslane
+[2022.11.12-01.55.25:776][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.55.47:828][598]LogViewport: Scene viewport resized to 1525x1237, mode Windowed.
+[2022.11.12-01.55.49:800][824]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-01.55.49:800][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-01.56.07:050][101]LogDerivedDataCache: C:/Users/atau2/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.046 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.12-01.56.07:230][122]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/grasslane.grasslane
+[2022.11.12-01.56.07:230][122]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.56.10:305][451]LogViewport: Scene viewport resized to 1525x1237, mode Windowed.
+[2022.11.12-01.56.25:434][191]LogSlate: Took 0.000109 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.12-01.56.28:842][587]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2022.11.12-01.56.55:363][606]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-01.56.55:363][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-01.56.57:149][800]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.11.12-01.56.57:151][800]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: E6F411BAA74D486785896545551A74DB3A97975D), compiling. 
+[2022.11.12-01.56.57:167][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-01.56.57:204][800]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 7F2EDD65DAAAB7DCBE1887AE872845C6BAD78C5B), compiling. 
+[2022.11.12-01.56.57:207][800]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 58B6992B9833C03421E1925B1B75CE0092BDF0DF), compiling. 
+[2022.11.12-01.56.57:208][800]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 306AD8D632215A8C6FE1CA6909DA6F67E47681F5), compiling. 
+[2022.11.12-01.56.57:224][800]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.12-01.56.57:224][800]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-01.56.57:224][800]MaterialEditorStats: Shader Count: 0
+[2022.11.12-01.56.57:229][800]LogViewport: Scene viewport resized to 504x629, mode Windowed.
+[2022.11.12-01.56.57:924][855]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.12-01.56.57:924][855]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-01.56.57:924][855]MaterialEditorStats: Shader Count: 2
+[2022.11.12-01.56.59:124][982]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-01.56.59:124][982]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-01.58.14:843][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/grasslane" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/grasslane.uasset" SILENT=true
+[2022.11.12-01.58.14:852][826]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008475 seconds
+[2022.11.12-01.58.14:855][826]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/grasslane
+[2022.11.12-01.58.14:855][826]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/grasslaneE4C5F7BD427047EE2F00ECADEE1EE1A7.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/grasslane.uasset'
+[2022.11.12-01.58.14:866][826]AssetCheck: New page: Asset Save: grasslane
+[2022.11.12-01.58.14:866][826]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/grasslane.grasslane
+[2022.11.12-01.58.16:542][ 20]BlueprintLog: New page: Compile grasslane
+[2022.11.12-01.58.16:653][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.11.12-02.01.50:005][252]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.12-02.05.13:965][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/grasslane" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/grasslane.uasset" SILENT=true
+[2022.11.12-02.05.13:972][161]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/grasslane
+[2022.11.12-02.05.13:972][161]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/grasslaneB3406FB9432395A015174D96DD11DFB3.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/grasslane.uasset'
+[2022.11.12-02.05.13:984][161]AssetCheck: New page: Asset Save: grasslane
+[2022.11.12-02.05.13:984][161]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/grasslane.grasslane
+[2022.11.12-02.05.14:941][273]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/grasslane" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/grasslane.uasset" SILENT=true
+[2022.11.12-02.05.14:948][273]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/grasslane
+[2022.11.12-02.05.14:948][273]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/grasslaneF53A3BEA49521EDB8B0B9AAFF0C7D485.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/grasslane.uasset'
+[2022.11.12-02.05.14:958][273]AssetCheck: New page: Asset Save: grasslane
+[2022.11.12-02.05.14:958][273]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/grasslane.grasslane
+[2022.11.12-02.05.15:587][345]BlueprintLog: New page: Compile grasslane
+[2022.11.12-02.05.15:643][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.11.12-02.05.42:323][790]LogLinker: Warning: [AssetLog] B:\Users\alex\Documents\Unreal Projects\crossyroadproject\Content\crossyroadassets\log\log.uasset: Failed to load '/Game/crossyroadassets/log/palette_003': Can't find file.
+[2022.11.12-02.05.42:323][790]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/crossyroadassets/log/palette_003'
+[2022.11.12-02.05.42:428][796]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/log/log.log
+[2022.11.12-02.05.42:428][796]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/log/log.log
+[2022.11.12-02.05.42:428][796]LogActorFactory: Actor Factory spawned StaticMesh /Game/crossyroadassets/log/log.log as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_17
+[2022.11.12-02.05.42:899][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/log/log.log
+[2022.11.12-02.05.42:899][849]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/log/log.log
+[2022.11.12-02.05.42:901][849]LogActorFactory: Actor Factory spawned StaticMesh /Game/crossyroadassets/log/log.log as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D4C457D98FB34801_2063377695
+[2022.11.12-02.05.46:707][286]Cmd: DELETE
+[2022.11.12-02.05.46:707][286]Cmd: ACTOR DELETE
+[2022.11.12-02.05.46:708][286]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.12-02.05.46:740][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.12-02.05.46:745][286]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2022.11.12-02.05.49:958][660]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D4C457D98FB34801_2063377695 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/P8/BAJ0YKL9JMHSORSCLB7UCY.PackageMetaData in its package
+[2022.11.12-02.05.49:960][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.11.12-02.05.49:983][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.11.12-02.05.50:006][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.11.12-02.05.50:036][660]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.11.12-02.05.54:580][191]LogLinker: Warning: [AssetLog] B:\Users\alex\Documents\Unreal Projects\crossyroadproject\Content\crossyroadassets\truck\truck.uasset: Failed to load '/Game/crossyroadassets/truck/palette_001': Can't find file.
+[2022.11.12-02.05.54:580][191]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/crossyroadassets/truck/palette_001'
+[2022.11.12-02.05.54:674][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/truck/truck.truck
+[2022.11.12-02.05.54:674][196]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/truck/truck.truck
+[2022.11.12-02.05.54:675][196]LogActorFactory: Actor Factory spawned StaticMesh /Game/crossyroadassets/truck/truck.truck as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_26
+[2022.11.12-02.05.54:927][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/truck/truck.truck
+[2022.11.12-02.05.54:927][224]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/truck/truck.truck
+[2022.11.12-02.05.54:929][224]LogActorFactory: Actor Factory spawned StaticMesh /Game/crossyroadassets/truck/truck.truck as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D4C457D98FB34801_2075404696
+[2022.11.12-02.05.56:236][373]Cmd: DELETE
+[2022.11.12-02.05.56:236][373]Cmd: ACTOR DELETE
+[2022.11.12-02.05.56:237][373]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.12-02.05.56:271][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.11.12-02.05.56:274][373]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.11.12-02.06.01:717][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/chicken/chicken.chicken
+[2022.11.12-02.06.01:717][  2]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/chicken/chicken.chicken
+[2022.11.12-02.06.01:717][  2]LogActorFactory: Actor Factory spawned StaticMesh /Game/crossyroadassets/chicken/chicken.chicken as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_27
+[2022.11.12-02.06.02:020][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/chicken/chicken.chicken
+[2022.11.12-02.06.02:020][ 36]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/crossyroadassets/chicken/chicken.chicken
+[2022.11.12-02.06.02:021][ 36]LogActorFactory: Actor Factory spawned StaticMesh /Game/crossyroadassets/chicken/chicken.chicken as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D4C457D98FB34801_2082498697
+[2022.11.12-02.06.03:446][198]Cmd: DELETE
+[2022.11.12-02.06.03:446][198]Cmd: ACTOR DELETE
+[2022.11.12-02.06.03:448][198]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.11.12-02.06.03:480][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.11.12-02.06.03:483][198]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2022.11.12-02.06.07:155][628]LogLinker: Warning: [AssetLog] B:\Users\alex\Documents\Unreal Projects\crossyroadproject\Content\crossyroadassets\car\car.uasset: Failed to load '/Game/crossyroadassets/car/palette_002': Can't find file.
+[2022.11.12-02.06.07:155][628]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/crossyroadassets/car/palette_002'
+[2022.11.12-02.06.07:188][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.11.12-02.06.08:825][628]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: ================================================
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Total job queries 52, among them cache hits 14 (26.92%)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Tracking 10 distinct input hashes that result in 6 distinct outputs (60.00%)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Shaders Compiled: 30
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100.00%)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Average time worker was idle: 144.77 s
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.03 s
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Job execution time: average 0.69 s, max 0.86 s
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Job life time (pending + execution): average 0.71 s, max 0.88
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.63 s
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Average processing rate: 6.15 jobs/sec
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Effective parallelization: 2.83 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.55 sec, max 0.61 sec, min 0.51 sec)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.54 sec, max 0.59 sec, min 0.49 sec)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.50 sec, max 0.56 sec, min 0.46 sec)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.18 sec)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 36.17% of total time (compiled    3 times, average 0.55 sec, max 0.61 sec, min 0.51 sec)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 32.35% of total time (compiled    3 times, average 0.50 sec, max 0.56 sec, min 0.46 sec)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display:                                                 FLumenCardVS - 23.50% of total time (compiled    2 times, average 0.54 sec, max 0.59 sec, min 0.49 sec)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.99% of total time (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.18 sec)
+[2022.11.12-02.06.08:830][628]LogShaderCompilers: Display: ================================================
+[2022.11.12-02.06.08:860][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.12-02.06.08:885][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.12-02.06.08:909][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.12-02.06.19:005][733]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\car\car.fbx)
+[2022.11.12-02.06.19:012][733]LogFbx: Loading FBX Scene from B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\car\car.fbx
+[2022.11.12-02.06.19:017][733]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.12-02.06.19:929][733]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.12-02.06.19:941][733]LogTexture: Display: Building textures: /Game/crossyroadassets/car/n74_car.n74_car (BGRA8, 256X1 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.11.12-02.06.19:943][733]LogMaterial: Display: Missing cached shadermap for palette_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 114BF06D7E8DD960DA4F7379227C0A8DA59E4228), compiling. 
+[2022.11.12-02.06.19:952][733]LogStaticMesh: Display: Building static mesh car...
+[2022.11.12-02.06.19:963][733]LogStaticMesh: Built static mesh [0.01s] /Game/crossyroadassets/car/car.car
+[2022.11.12-02.06.19:966][733]LogStaticMesh: Warning: car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.11.12-02.06.19:966][733]LogStaticMesh: Warning: car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.11.12-02.06.19:977][733]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.12-02.06.19:977][733]FBXImport: Warning: car has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.11.12-02.06.19:977][733]FBXImport: Warning: car has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.11.12-02.06.31:254][ 71]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.06.31:259][ 71]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.06.34:526][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.12-02.06.35:762][426]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.12-02.06.35:794][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.11.12-02.06.35:819][426]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.12-02.06.35:843][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.11.12-02.06.42:894][527]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\log\log.fbx)
+[2022.11.12-02.06.42:899][527]LogFbx: Loading FBX Scene from B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\log\log.fbx
+[2022.11.12-02.06.42:903][527]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.12-02.06.44:013][527]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.12-02.06.44:023][527]LogTexture: Display: Building textures: /Game/crossyroadassets/log/log1.log1 (BGRA8, 256X1 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.11.12-02.06.44:025][527]LogMaterial: Display: Missing cached shadermap for palette_003 in PCD3D_SM5, Default, SM5 (DDC key hash: AE665E58BBE3C6BA2FD18C82C9017BDB92A4554A), compiling. 
+[2022.11.12-02.06.44:029][527]LogStaticMesh: Display: Building static mesh log...
+[2022.11.12-02.06.44:032][527]LogStaticMesh: Built static mesh [0.00s] /Game/crossyroadassets/log/log.log
+[2022.11.12-02.06.44:033][527]LogStaticMesh: Warning: log has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.11.12-02.06.44:033][527]LogStaticMesh: Warning: log has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.11.12-02.06.44:041][527]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.12-02.06.44:041][527]FBXImport: Warning: log has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.11.12-02.06.44:041][527]FBXImport: Warning: log has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.11.12-02.06.46:126][751]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.06.46:130][751]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.06.51:300][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.12-02.07.05:094][179]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.12-02.07.05:147][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.11.12-02.07.08:378][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.11.12-02.07.08:379][453]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2022.11.12-02.07.08:379][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/crossyroadassets/car/car] ([1] browsable assets)...
+[2022.11.12-02.07.08:395][453]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/crossyroadassets/car/car.car]
+[2022.11.12-02.07.08:395][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/crossyroadassets/car/car]
+[2022.11.12-02.07.08:399][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/crossyroadassets/car/car_Auto1
+[2022.11.12-02.07.08:399][453]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/car_Auto1F656564F4F7451115301F0B050938AD2.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/Autosaves/Game/crossyroadassets/car/car_Auto1.uasset'
+[2022.11.12-02.07.08:400][453]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/crossyroadassets/log/log] ([1] browsable assets)...
+[2022.11.12-02.07.08:405][453]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/crossyroadassets/log/log.log]
+[2022.11.12-02.07.08:405][453]OBJ SavePackage: Finished generating thumbnails for package [/Game/crossyroadassets/log/log]
+[2022.11.12-02.07.08:407][453]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/crossyroadassets/log/log_Auto1
+[2022.11.12-02.07.08:407][453]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/log_Auto1525BB1AE4D768FD6AEAC6F99016026BA.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/Autosaves/Game/crossyroadassets/log/log_Auto1.uasset'
+[2022.11.12-02.07.08:407][453]LogFileHelpers: Auto-saving content packages took 0.028
+[2022.11.12-02.07.13:164][495]LogEditorFactories: Performing atomic reimport of [B:/Users/alex/Documents/CPSC 386 game dev/crossyroad/rock/rock.fbx]
+[2022.11.12-02.07.13:169][495]LogFbx: Loading FBX Scene from B:/Users/alex/Documents/CPSC 386 game dev/crossyroad/rock/rock.fbx
+[2022.11.12-02.07.13:173][495]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.12-02.07.13:198][495]LogStaticMesh: Display: Building static mesh rock...
+[2022.11.12-02.07.13:224][495]LogStaticMesh: Built static mesh [0.03s] /Game/crossyroadassets/rock/rock.rock
+[2022.11.12-02.07.13:227][495]LogStaticMesh: Warning: rock has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.11.12-02.07.13:227][495]LogStaticMesh: Warning: rock has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.11.12-02.07.13:233][495]LogEditorFactories: -- imported successfully
+[2022.11.12-02.07.13:234][495]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.12-02.07.13:234][495]FBXImport: Warning: rock has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.11.12-02.07.13:234][495]FBXImport: Warning: rock has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.11.12-02.07.21:068][556]LogEditorFactories: Performing atomic reimport of [B:/Users/alex/Documents/CPSC 386 game dev/crossyroad/rock/rock.fbx]
+[2022.11.12-02.07.21:072][556]LogFbx: Loading FBX Scene from B:/Users/alex/Documents/CPSC 386 game dev/crossyroad/rock/rock.fbx
+[2022.11.12-02.07.21:077][556]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.12-02.07.21:099][556]LogStaticMesh: Display: Building static mesh rock...
+[2022.11.12-02.07.21:126][556]LogStaticMesh: Built static mesh [0.03s] /Game/crossyroadassets/rock/rock.rock
+[2022.11.12-02.07.21:129][556]LogStaticMesh: Warning: rock has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.11.12-02.07.21:129][556]LogStaticMesh: Warning: rock has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.11.12-02.07.21:135][556]LogEditorFactories: -- imported successfully
+[2022.11.12-02.07.21:136][556]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.12-02.07.21:136][556]FBXImport: Warning: rock has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.11.12-02.07.21:136][556]FBXImport: Warning: rock has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.11.12-02.07.22:740][561]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/crossyroadassets/rock/rock.rock
+[2022.11.12-02.07.22:746][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-02.07.22:975][561]LogViewport: Scene viewport resized to 1877x1262, mode Windowed.
+[2022.11.12-02.07.25:887][850]LogSlate: Window 'rock' being destroyed
+[2022.11.12-02.07.25:891][850]LogSlate: Window 'rock' being destroyed
+[2022.11.12-02.07.25:894][850]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-02.07.25:894][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-02.07.25:936][850]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.12-02.07.25:936][850]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-02.07.25:936][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-02.07.25:978][850]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.12-02.07.25:978][850]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-02.07.25:978][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-02.07.26:035][850]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-02.07.26:035][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-02.07.27:733][ 48]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/crossyroadassets/rock/rock.rock
+[2022.11.12-02.07.27:772][ 48]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-02.07.27:989][ 48]LogViewport: Scene viewport resized to 1877x1262, mode Windowed.
+[2022.11.12-02.07.38:392][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.11.12-02.07.54:580][780]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.12-02.07.54:632][780]LogSlate: Window 'rock' being destroyed
+[2022.11.12-02.07.54:656][780]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-02.07.54:657][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-02.07.54:669][780]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/crossyroadassets/rock/rock.rock
+	Asset Type: StaticMesh
+[2022.11.12-02.07.54:943][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.11.12-02.07.54:966][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.12-02.07.54:978][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.12-02.07.57:211][996]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\rock\rock.fbx)
+[2022.11.12-02.07.57:216][996]LogFbx: Loading FBX Scene from B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\rock\rock.fbx
+[2022.11.12-02.07.57:220][996]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.12-02.07.58:370][996]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.12-02.07.58:381][996]LogTexture: Display: Building textures: /Game/crossyroadassets/rock/rock1.rock1 (BGRA8, 256X1 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.11.12-02.07.58:383][996]LogMaterial: Display: Missing cached shadermap for palette_004 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C9827536E8412F873DCCF2AEBA9488EEB619CD0), compiling. 
+[2022.11.12-02.07.58:386][996]LogStaticMesh: Display: Building static mesh rock...
+[2022.11.12-02.07.58:388][996]LogStaticMesh: Built static mesh [0.00s] /Game/crossyroadassets/rock/rock.rock
+[2022.11.12-02.07.58:388][996]LogStaticMesh: Warning: rock has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.11.12-02.07.58:388][996]LogStaticMesh: Warning: rock has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.11.12-02.07.58:395][996]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.12-02.07.58:395][996]FBXImport: Warning: rock has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.11.12-02.07.58:395][996]FBXImport: Warning: rock has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.11.12-02.08.01:411][345]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.08.01:414][345]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.08.05:205][787]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/grasslane.grasslane
+[2022.11.12-02.08.05:206][787]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-02.08.12:871][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.12-02.08.14:685][631]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.12-02.08.14:747][631]LogSlate: Window 'grasslane' being destroyed
+[2022.11.12-02.08.14:801][631]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-02.08.14:801][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-02.08.14:844][631]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/crossyroadassets/tree/tree.tree
+	Asset Type: StaticMesh
+[2022.11.12-02.08.15:057][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.12-02.08.15:089][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.12-02.08.15:101][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.11.12-02.08.21:962][719]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\tree\tree.fbx)
+[2022.11.12-02.08.21:967][719]LogFbx: Loading FBX Scene from B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\tree\tree.fbx
+[2022.11.12-02.08.21:972][719]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.12-02.08.22:913][719]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.12-02.08.22:924][719]LogTexture: Display: Building textures: /Game/crossyroadassets/tree/tree1.tree1 (BGRA8, 256X1 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.11.12-02.08.22:927][719]LogMaterial: Display: Missing cached shadermap for palette_005 in PCD3D_SM5, Default, SM5 (DDC key hash: EE6BD8A4278FAAC208CA3F120C4DE88ADACE07E2), compiling. 
+[2022.11.12-02.08.22:929][719]LogStaticMesh: Display: Building static mesh tree...
+[2022.11.12-02.08.22:932][719]LogStaticMesh: Built static mesh [0.00s] /Game/crossyroadassets/tree/tree.tree
+[2022.11.12-02.08.22:932][719]LogStaticMesh: Warning: tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.11.12-02.08.22:932][719]LogStaticMesh: Warning: tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.11.12-02.08.22:939][719]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.12-02.08.22:939][719]FBXImport: Warning: tree has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.11.12-02.08.22:939][719]FBXImport: Warning: tree has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.11.12-02.08.24:842][939]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.08.24:846][939]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.08.27:936][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.12-02.08.31:452][300]LogSlate: Window 'Delete Assets' being destroyed
+[2022.11.12-02.08.31:466][300]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/crossyroadassets/truck/truck.truck
+	Asset Type: StaticMesh
+[2022.11.12-02.08.31:678][300]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D4C457D98FB34801_2082498697 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TK/0J14HA4J4LV3IEW10ZHBL4.PackageMetaData in its package
+[2022.11.12-02.08.31:679][300]LogWorldPartition: Warning: Actor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_04D4C457D98FB34801_2075404696 is unreachable without properly detaching object /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HO/XYOFH4154TR3PAF86RE4GI.PackageMetaData in its package
+[2022.11.12-02.08.31:680][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.12-02.08.31:694][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.12-02.08.31:706][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.11.12-02.08.31:739][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.11.12-02.08.36:101][444]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\truck\truck.fbx)
+[2022.11.12-02.08.36:106][444]LogFbx: Loading FBX Scene from B:\Users\alex\Documents\CPSC 386 game dev\crossyroad\truck\truck.fbx
+[2022.11.12-02.08.36:110][444]LogFbx: FBX Scene Loaded Succesfully
+[2022.11.12-02.08.37:011][444]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.11.12-02.08.37:021][444]LogTexture: Display: Building textures: /Game/crossyroadassets/truck/truck1.truck1 (BGRA8, 256X1 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.11.12-02.08.37:024][444]LogMaterial: Display: Missing cached shadermap for palette_001 in PCD3D_SM5, Default, SM5 (DDC key hash: EA402081C4A88425CA8011E56B090D7018D2D820), compiling. 
+[2022.11.12-02.08.37:028][444]LogStaticMesh: Display: Building static mesh truck...
+[2022.11.12-02.08.37:032][444]LogStaticMesh: Built static mesh [0.00s] /Game/crossyroadassets/truck/truck.truck
+[2022.11.12-02.08.37:033][444]LogStaticMesh: Warning: truck has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2022.11.12-02.08.37:033][444]LogStaticMesh: Warning: truck has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2022.11.12-02.08.37:043][444]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.11.12-02.08.37:043][444]FBXImport: Warning: truck has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2022.11.12-02.08.37:043][444]FBXImport: Warning: truck has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2022.11.12-02.08.38:833][648]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.08.38:836][648]LogSlate: Window 'Message Log' being destroyed
+[2022.11.12-02.08.41:776][688]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.11.12-02.08.41:776][688]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.11.12-02.08.44:015][945]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/grasslane.grasslane
+[2022.11.12-02.08.44:016][945]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-02.08.46:493][188]LogViewport: Scene viewport resized to 1525x1237, mode Windowed.
+[2022.11.12-02.08.55:891][264]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner
+[2022.11.12-02.08.55:891][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-02.09.18:346][824]LogViewport: Scene viewport resized to 1525x981, mode Windowed.
+[2022.11.12-02.09.27:756][900]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/rocktreespawner
+[2022.11.12-02.09.27:756][900]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/rocktreespawner7509847A4A51FBB4044F66AF06AD63FD.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/rocktreespawner.uasset'
+[2022.11.12-02.09.27:765][900]AssetCheck: New page: Asset Save: rocktreespawner
+[2022.11.12-02.09.27:765][900]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner
+[2022.11.12-02.09.28:365][968]BlueprintLog: New page: Compile rocktreespawner
+[2022.11.12-02.09.28:403][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.12-02.10.13:474][661]Launching UnrealBuildTool... [C:/Program Files/Unreal Engine 5/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Unreal Engine 5/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.11.12-02.10.13:583][661]Launching UnrealBuildTool... [C:/Program Files/Unreal Engine 5/UE_5.0/Engine/Binaries/DotNET/UnrealBuildTool/UnrealBuildTool.exe -Mode=QueryTargets -Output="C:/Program Files/Unreal Engine 5/UE_5.0/Engine/Intermediate/TargetInfo.json"]
+[2022.11.12-02.10.13:686][661]LogDesktopPlatform: Warning: Unable to read target info for engine
+[2022.11.12-02.10.13:686][661]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-37S2PHV
+[2022.11.12-02.10.13:686][661]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/crossyroadproject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/TurnkeyReport_1.log" -log="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/TurnkeyLog_1.log" -project="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/crossyroadproject.uproject"  -Device=Win64@DESKTOP-37S2PHV'
+[2022.11.12-02.10.13:686][661]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Unreal Engine 5/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/crossyroadproject.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/TurnkeyReport_1.log" -log="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Intermediate/TurnkeyLog_1.log" -project="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/crossyroadproject.uproject"  -Device=Win64@DESKTOP-37S2PHV" -nocompile ]
+[2022.11.12-02.10.13:795][673]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.11.12-02.10.37:449][553]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.11.12-02.10.37:453][553]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.11.12-02.10.37:459][553]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.11.12-02.10.37:469][554]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.11.12-02.10.40:686][930]LogContentBrowser: Attempting asset rename: NewBlueprint -> cars
+[2022.11.12-02.10.40:690][930]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.11.12-02.10.47:992][ 90]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/cars.cars
+[2022.11.12-02.10.47:992][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-02.10.48:388][ 90]LogViewport: Scene viewport resized to 1525x1237, mode Windowed.
+[2022.11.12-02.12.17:136][450]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.cars_C_0.car has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.11.12-02.12.17:137][450]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.cars_C_0.car has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.11.12-02.12.17:145][451]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.cars_C_0.car has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.11.12-02.12.17:145][451]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.cars_C_0.car has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.11.12-02.12.17:145][451]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.cars_C_0.car has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.11.12-02.12.17:153][452]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.cars_C_0.car has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.11.12-02.12.17:153][452]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.cars_C_0.car has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=0.000 Z=1.000
+[2022.11.12-02.12.17:731][518]LogEditorTransaction: Undo Modify Component(s)
+[2022.11.12-02.15.09:303][698]BlueprintLog: New page: Compile cars
+[2022.11.12-02.15.09:344][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.11.12-02.15.09:700][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/cars" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/cars.uasset" SILENT=true
+[2022.11.12-02.15.09:702][732]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/cars
+[2022.11.12-02.15.09:702][732]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/cars6F1846F94523B25181B95FBFFB9BEDB9.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/cars.uasset'
+[2022.11.12-02.15.09:711][732]AssetCheck: New page: Asset Save: cars
+[2022.11.12-02.15.09:711][732]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/cars.cars
+[2022.11.12-02.15.12:933][107]LogEditorTransaction: Undo Paste clipboard contents
+[2022.11.12-02.15.45:471][133]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_32
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.45:471][133]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_34
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.45:472][133]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_35
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:012][193]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_38
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:013][193]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_42
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:013][193]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_43
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:014][193]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_47
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:321][226]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_51
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:321][226]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_52
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:321][226]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_55
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:322][226]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_56
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:322][226]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_58
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:621][258]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_59
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:621][258]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_60
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:621][258]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_61
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:622][258]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_62
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:622][258]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_64
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:942][290]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_66
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:942][290]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_67
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:942][290]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_69
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.46:942][290]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_70
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:262][322]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_72
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:262][322]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_73
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:262][322]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_74
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:263][322]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_75
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:263][322]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_78
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:582][354]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_80
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:582][354]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_82
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:583][354]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_84
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:583][354]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_86
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:901][388]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_88
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:901][388]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_89
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:902][388]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_92
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:902][388]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_93
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:902][388]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_94
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.47:902][388]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_95
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:231][422]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_100
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:231][422]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_102
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:557][456]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_104
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:557][456]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_105
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:558][456]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_106
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:558][456]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_107
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:558][456]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_108
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:874][488]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_110
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:874][488]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_113
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.48:875][488]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_114
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.49:465][552]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_117
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.49:465][552]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_118
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.50:343][648]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_119
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.50:344][648]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_120
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.50:344][648]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_123
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.50:345][648]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_126
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.50:345][648]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_129
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.51:157][736]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_131
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.51:158][736]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_132
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.51:158][736]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_135
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.51:158][736]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_136
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.51:159][736]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_137
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.51:159][736]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_138
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.51:159][736]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_140
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.51:160][736]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_142
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.52:005][828]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_144
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.52:006][828]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_148
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.52:724][905]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_151
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.52:724][905]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_152
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.52:724][905]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_153
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.52:725][905]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_156
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.53:498][989]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_160
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.53:498][989]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_162
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.53:499][989]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_164
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.53:500][989]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_167
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.53:500][989]LogScript: Warning: Accessed None trying to read property StaticMesh
+	rocktreespawner_C /Engine/Transient.World_16:PersistentLevel.rocktreespawner_C_168
+	Function /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner_C:ExecuteUbergraph_rocktreespawner:001F
+[2022.11.12-02.15.58:206][530]BlueprintLog: New page: Compile rocktreespawner
+[2022.11.12-02.15.58:323][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.12-02.15.58:821][531]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/rocktreespawner
+[2022.11.12-02.15.58:821][531]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/rocktreespawnerCAA5283941E1258208566E8F9B7D3E8F.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/rocktreespawner.uasset'
+[2022.11.12-02.15.58:830][531]AssetCheck: New page: Asset Save: rocktreespawner
+[2022.11.12-02.15.58:830][531]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner
+[2022.11.12-02.15.59:218][571]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/rocktreespawner
+[2022.11.12-02.15.59:219][571]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/rocktreespawner634801FC47A3AF31D739AF817621EC46.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/rocktreespawner.uasset'
+[2022.11.12-02.15.59:228][571]AssetCheck: New page: Asset Save: rocktreespawner
+[2022.11.12-02.15.59:228][571]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/rocktreespawner.rocktreespawner
+[2022.11.12-02.16.00:483][712]BlueprintLog: New page: Compile cars
+[2022.11.12-02.16.00:517][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.12-02.16.01:024][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/cars" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/cars.uasset" SILENT=true
+[2022.11.12-02.16.01:027][764]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/cars
+[2022.11.12-02.16.01:028][764]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/carsDBD4A6934CA56B5C77B61387E6C73A00.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/cars.uasset'
+[2022.11.12-02.16.01:036][764]AssetCheck: New page: Asset Save: cars
+[2022.11.12-02.16.01:036][764]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/cars.cars
+[2022.11.12-02.16.59:837][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.12-02.18.02:244][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/cars" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/cars.uasset" SILENT=true
+[2022.11.12-02.18.02:248][712]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/cars
+[2022.11.12-02.18.02:248][712]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/carsBCC16E1D4CE31EBC0A6A5493FC238516.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/cars.uasset'
+[2022.11.12-02.18.02:258][712]AssetCheck: New page: Asset Save: cars
+[2022.11.12-02.18.02:259][712]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/cars.cars
+[2022.11.12-02.18.03:318][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/cars" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/cars.uasset" SILENT=true
+[2022.11.12-02.18.03:322][833]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/cars
+[2022.11.12-02.18.03:322][833]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/carsD3D501D2494A015216409EA01CDAB019.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/cars.uasset'
+[2022.11.12-02.18.03:332][833]AssetCheck: New page: Asset Save: cars
+[2022.11.12-02.18.03:333][833]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/cars.cars
+[2022.11.12-02.18.03:794][888]BlueprintLog: New page: Compile cars
+[2022.11.12-02.18.03:828][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.12-02.18.11:727][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.11.12-02.18.14:025][317]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.12-02.18.14:025][317]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.11.12-02.18.21:633][222]LogContentBrowser: Attempting asset rename: grasslane_2 -> roadlane
+[2022.11.12-02.18.21:648][222]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/roadlane.SKEL_roadlane_C' ref from Metadata '/Game/ThirdPerson/Blueprints/grasslane_2.PackageMetaData'
+[2022.11.12-02.18.21:648][222]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/roadlane.roadlane_C' ref from Metadata '/Game/ThirdPerson/Blueprints/grasslane_2.PackageMetaData'
+[2022.11.12-02.18.21:648][222]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/roadlane.SKEL_roadlane_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/grasslane_2.PackageMetaData'
+[2022.11.12-02.18.21:648][222]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/roadlane.SKEL_roadlane_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/grasslane_2.PackageMetaData'
+[2022.11.12-02.18.21:648][222]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/roadlane.roadlane_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/grasslane_2.PackageMetaData'
+[2022.11.12-02.18.21:694][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/roadlane" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/roadlane.uasset" SILENT=true
+[2022.11.12-02.18.21:701][222]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/roadlane
+[2022.11.12-02.18.21:701][222]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/roadlane60B797B44DBB84B68D21CAB47AFBA410.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/roadlane.uasset'
+[2022.11.12-02.18.21:738][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.11.12-02.18.21:759][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.11.12-02.18.21:777][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.11.12-02.18.21:780][222]AssetCheck: New page: Asset Save: roadlane
+[2022.11.12-02.18.21:780][222]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/roadlane.roadlane
+[2022.11.12-02.18.23:008][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.11.12-02.18.33:017][423]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/roadlane.roadlane
+[2022.11.12-02.18.33:017][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-02.18.34:677][576]LogViewport: Scene viewport resized to 1525x1237, mode Windowed.
+[2022.11.12-02.18.42:322][427]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_AssetPlatform.M_AssetPlatform
+[2022.11.12-02.18.42:323][427]LogMaterial: Display: Missing cached shadermap for Preview:M_AssetPlatform in PCD3D_SM5, Default, SM5 (DDC key hash: D6991E59502C4D3599F85649424A78A78C6A6B5F), compiling. 
+[2022.11.12-02.18.42:338][427]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-02.18.42:373][427]LogMaterial: Display: Missing cached shadermap for Preview:M_AssetPlatform in PCD3D_SM5, Default, SM5 (DDC key hash: B0DDE1230CEFD066629101E6886E59A1B34995F7), compiling. 
+[2022.11.12-02.18.42:377][427]LogMaterial: Display: Missing cached shadermap for Preview:M_AssetPlatform in PCD3D_SM5, Default, SM5 (DDC key hash: 50315B4B57412B2BE46B03190BA7CA2311A4B1CE), compiling. 
+[2022.11.12-02.18.42:395][427]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.12-02.18.42:395][427]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.18.42:395][427]MaterialEditorStats: Shader Count: 0
+[2022.11.12-02.18.42:400][427]LogViewport: Scene viewport resized to 504x629, mode Windowed.
+[2022.11.12-02.18.43:027][475]LogShaderCompilers: Display: ================================================
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Total job queries 90, among them cache hits 14 (15.56%)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Tracking 31 distinct input hashes that result in 10 distinct outputs (32.26%)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Shaders Compiled: 54
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Jobs assigned 34, completed 31 (91.18%)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Average time worker was idle: 206.64 s
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.11 s
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Job execution time: average 0.60 s, max 0.86 s
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Job life time (pending + execution): average 0.64 s, max 0.88
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.63 s
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Average processing rate: 5.51 jobs/sec
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Effective parallelization: 2.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    8 times, average 0.51 sec, max 0.61 sec, min 0.47 sec)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    7 times, average 0.48 sec, max 0.59 sec, min 0.41 sec)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    8 times, average 0.46 sec, max 0.56 sec, min 0.42 sec)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    8 times, average 0.19 sec, max 0.20 sec, min 0.18 sec)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 32.39% of total time (compiled    8 times, average 0.51 sec, max 0.61 sec, min 0.47 sec)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 29.29% of total time (compiled    8 times, average 0.46 sec, max 0.56 sec, min 0.42 sec)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display:                                                 FLumenCardVS - 26.52% of total time (compiled    7 times, average 0.48 sec, max 0.59 sec, min 0.41 sec)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.81% of total time (compiled    8 times, average 0.19 sec, max 0.20 sec, min 0.18 sec)
+[2022.11.12-02.18.43:028][475]LogShaderCompilers: Display: ================================================
+[2022.11.12-02.18.43:227][494]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.12-02.18.43:227][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.18.43:227][494]MaterialEditorStats: Shader Count: 4
+[2022.11.12-02.18.50:449][339]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.11.12-02.18.50:449][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.12-02.18.56:280][985]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.11.12-02.18.56:282][985]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 391B60A90E9D1183CA4DF030FCB40520C9FFD0BF), compiling. 
+[2022.11.12-02.18.56:296][985]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.12-02.18.56:331][985]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 110DB266783D6FB886F598BE0888D9D337F37CB9), compiling. 
+[2022.11.12-02.18.56:335][985]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 05C9BF20E10DF35A2AD2ED1D3F8438EF1DA6FEEE), compiling. 
+[2022.11.12-02.18.56:336][985]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3D3E8F9BC58EDCC8F10770CB7D0578442D347CE2), compiling. 
+[2022.11.12-02.18.56:355][985]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.12-02.18.56:355][985]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.18.56:355][985]MaterialEditorStats: Shader Count: 0
+[2022.11.12-02.18.56:360][985]LogViewport: Scene viewport resized to 504x629, mode Windowed.
+[2022.11.12-02.18.56:434][987]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.12-02.18.56:434][987]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.18.56:434][987]MaterialEditorStats: Shader Count: 4
+[2022.11.12-02.19.02:064][615]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: E9A753DDFD526A450B91EB2BE776EA3CF92DB9CD), compiling. 
+[2022.11.12-02.19.02:066][615]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: DC4E36E33722E73BD88D6FA822B70A3BE9DF4EFE), compiling. 
+[2022.11.12-02.19.02:068][615]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 94C163C6B4E7F3B1B80E93D4F6B819837A23F89E), compiling. 
+[2022.11.12-02.19.02:071][615]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 6D576C1380140C55EE73E4E999C089BB3C7B78F0), compiling. 
+[2022.11.12-02.19.02:073][615]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8F95127F27F6311A4C6F3DAD51B73EFE61FC10E7), compiling. 
+[2022.11.12-02.19.02:076][615]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 6C9073869DC82A62D2CD8476C8D82B88EC519574), compiling. 
+[2022.11.12-02.19.02:077][615]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.12-02.19.02:082][615]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.12-02.19.02:082][615]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.02:082][615]MaterialEditorStats: Shader Count: 0
+[2022.11.12-02.19.02:124][618]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.12-02.19.02:124][618]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.02:124][618]MaterialEditorStats: Shader Count: 4
+[2022.11.12-02.19.05:689][ 17]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 34B9091E662B10B7A82D633B9F9A9918B5FE2CF9), compiling. 
+[2022.11.12-02.19.05:691][ 17]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 7B6C1B75B2C332831E0273D3D7948187F03F45C6), compiling. 
+[2022.11.12-02.19.05:693][ 17]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F316E86D27DFF1B74FD08ED724859BFB542D6A5), compiling. 
+[2022.11.12-02.19.05:696][ 17]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: E1C8BC29F5FFFFABC65F5B9EBC04C35F392243E3), compiling. 
+[2022.11.12-02.19.05:698][ 17]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 648891A24C40F7E70DFB7A55E9454015C8A1C87F), compiling. 
+[2022.11.12-02.19.05:701][ 17]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 75949E6A313527069438E04EFF054BB218895654), compiling. 
+[2022.11.12-02.19.05:702][ 17]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.12-02.19.05:706][ 17]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.12-02.19.05:706][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.05:706][ 17]MaterialEditorStats: Shader Count: 0
+[2022.11.12-02.19.05:751][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.12-02.19.05:751][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.05:751][ 20]MaterialEditorStats: Shader Count: 4
+[2022.11.12-02.19.09:203][424]LogMaterialEditor: Applying material M_Basic_Wall
+[2022.11.12-02.19.09:560][424]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 0D8683FD7BCE6ED061ACED531FEE56A280E54D87), compiling. 
+[2022.11.12-02.19.09:569][424]LogMaterial: Display: Missing cached shadermap for M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 6A8F5CC42DF55EE83BB3A07E8AE9F582B0C6C848), compiling. 
+[2022.11.12-02.19.09:609][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.11.12-02.19.10:264][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.11.12-02.19.11:065][513]LogMaterialEditor: Saving and Compiling material M_Basic_Wall
+[2022.11.12-02.19.13:089][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Basic_Wall" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/StarterContent/Materials/M_Basic_Wall.uasset" SILENT=true
+[2022.11.12-02.19.13:090][513]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Basic_Wall
+[2022.11.12-02.19.13:091][513]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/M_Basic_Wall69F1CBA4429F8549E7916392691B1454.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/StarterContent/Materials/M_Basic_Wall.uasset'
+[2022.11.12-02.19.13:100][513]AssetCheck: New page: Asset Save: M_Basic_Wall
+[2022.11.12-02.19.13:100][513]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.11.12-02.19.13:101][513]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.11.12-02.19.13:101][513]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2022.11.12-02.19.13:101][513]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.11.12-02.19.13:101][513]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.12-02.19.13:101][513]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.13:101][513]MaterialEditorStats: Shader Count: 25
+[2022.11.12-02.19.18:680][131]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: DBE171BB747CDA94D90C40DD26C86CBD6BA167ED), compiling. 
+[2022.11.12-02.19.18:681][131]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9AB0EC23A6E5553F71E30AFBF9386233539A476E), compiling. 
+[2022.11.12-02.19.18:683][131]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C109C836B4B17975A734B5C15E31FAE7F7245E15), compiling. 
+[2022.11.12-02.19.18:687][131]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 74A87F7D2F07F551D40C3B0136EDE7BDA63F0F7B), compiling. 
+[2022.11.12-02.19.18:688][131]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: C874349C0385B6AF8C3114466C312D65BCB78BFA), compiling. 
+[2022.11.12-02.19.18:691][131]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 9FA2B6A8C8F1DCAD433B5D38AFF99DF08C56BA9D), compiling. 
+[2022.11.12-02.19.18:692][131]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.12-02.19.18:697][131]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.12-02.19.18:697][131]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.18:697][131]MaterialEditorStats: Shader Count: 0
+[2022.11.12-02.19.18:741][134]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.12-02.19.18:741][134]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.18:741][134]MaterialEditorStats: Shader Count: 4
+[2022.11.12-02.19.20:154][293]LogMaterialEditor: Saving and Compiling material M_Basic_Wall
+[2022.11.12-02.19.20:525][293]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 8CB5E13ED52D26E3294C466E459C33ED9062BA96), compiling. 
+[2022.11.12-02.19.20:538][293]LogMaterial: Display: Missing cached shadermap for M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: A4EFDD01D0FB7AA0747D34D95D241DBBCB843C77), compiling. 
+[2022.11.12-02.19.20:576][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.12-02.19.20:739][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.11.12-02.19.20:841][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Basic_Wall" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/StarterContent/Materials/M_Basic_Wall.uasset" SILENT=true
+[2022.11.12-02.19.20:842][293]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Basic_Wall
+[2022.11.12-02.19.20:842][293]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/M_Basic_WallDB5CC9C14D496596332218BD53ED5F18.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/StarterContent/Materials/M_Basic_Wall.uasset'
+[2022.11.12-02.19.20:851][293]AssetCheck: New page: Asset Save: M_Basic_Wall
+[2022.11.12-02.19.20:851][293]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.11.12-02.19.20:851][293]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.11.12-02.19.20:851][293]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2022.11.12-02.19.20:851][293]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.11.12-02.19.20:851][293]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.12-02.19.20:851][293]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.20:851][293]MaterialEditorStats: Shader Count: 25
+[2022.11.12-02.19.28:907][202]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 2BF37D0DA130E1CEE788315012A1370BC0A0818C), compiling. 
+[2022.11.12-02.19.28:909][202]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: AB5BE4CCE03D2F7B52648501DF6C92393AAC88E8), compiling. 
+[2022.11.12-02.19.28:911][202]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 1B843ACD84A05132D6D97793AE8D7C4CE6359202), compiling. 
+[2022.11.12-02.19.28:914][202]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 441911AFA23A063C332228FA32A0AA1395ACA1AC), compiling. 
+[2022.11.12-02.19.28:915][202]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C14B2551EEC61B41B3EBD32EF0C710B5F029788), compiling. 
+[2022.11.12-02.19.28:918][202]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 786B505B3C552AC3CFFE202E5B0DFF0A56BB20B3), compiling. 
+[2022.11.12-02.19.28:920][202]LogSlate: Window 'Color Picker' being destroyed
+[2022.11.12-02.19.28:925][202]MaterialEditorStats: Texture samplers: 0/16
+[2022.11.12-02.19.28:925][202]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.28:925][202]MaterialEditorStats: Shader Count: 0
+[2022.11.12-02.19.28:967][205]MaterialEditorStats: Texture samplers: 2/16
+[2022.11.12-02.19.28:967][205]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.28:967][205]MaterialEditorStats: Shader Count: 4
+[2022.11.12-02.19.30:510][382]LogMaterialEditor: Saving and Compiling material M_Basic_Wall
+[2022.11.12-02.19.30:859][382]LogMaterial: Display: Missing cached shadermap for Preview:M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: 169E36916C078D71E934DEC2CE77962F3B642589), compiling. 
+[2022.11.12-02.19.30:869][382]LogMaterial: Display: Missing cached shadermap for M_Basic_Wall in PCD3D_SM5, Default, SM5 (DDC key hash: C8B2BAE2FD9BA71057405C1E223FFA4C4ED5A049), compiling. 
+[2022.11.12-02.19.30:904][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.11.12-02.19.31:066][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.12-02.19.31:163][382]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Basic_Wall" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/StarterContent/Materials/M_Basic_Wall.uasset" SILENT=true
+[2022.11.12-02.19.31:165][382]LogSavePackage: Moving output files for package: /Game/StarterContent/Materials/M_Basic_Wall
+[2022.11.12-02.19.31:165][382]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/M_Basic_WallBC344D8D47B4D2C475AF18A9EF7BF057.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/StarterContent/Materials/M_Basic_Wall.uasset'
+[2022.11.12-02.19.31:174][382]AssetCheck: New page: Asset Save: M_Basic_Wall
+[2022.11.12-02.19.31:174][382]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall
+[2022.11.12-02.19.31:174][382]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.11.12-02.19.31:174][382]MaterialEditorStats: Base pass shader with Surface Lightmap: 151 instructions
+[2022.11.12-02.19.31:174][382]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.11.12-02.19.31:174][382]MaterialEditorStats: Texture samplers: 3/16
+[2022.11.12-02.19.31:174][382]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.11.12-02.19.31:174][382]MaterialEditorStats: Shader Count: 25
+[2022.11.12-02.19.33:006][583]BlueprintLog: New page: Compile roadlane
+[2022.11.12-02.19.33:054][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.11.12-02.19.33:405][611]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/roadlane" FILE="B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/roadlane.uasset" SILENT=true
+[2022.11.12-02.19.33:411][611]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/roadlane
+[2022.11.12-02.19.33:412][611]LogSavePackage: Moving 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Saved/roadlaneEBC9AF0D4054A078779C2C9F85118D47.tmp' to 'B:/Users/alex/Documents/Unreal Projects/crossyroadproject/Content/ThirdPerson/Blueprints/roadlane.uasset'
+[2022.11.12-02.19.33:420][611]AssetCheck: New page: Asset Save: roadlane
+[2022.11.12-02.19.33:420][611]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/roadlane.roadlane
+[2022.11.12-02.19.33:459][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.11.12-02.20.25:149][377]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.11.12-02.20.55:174][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.12-02.21.27:870][353]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.12-02.21.28:257][353]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.388 s
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: 
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 858]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPin [NodeFactory.cpp(270)]). See InvalidateGraphData for more info
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: Stack: 
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffb67759ab UnrealEditor-GraphEditor.dll!SGraphNode::FindWidgetForPin() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphNode.cpp:1302]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffb677da3a UnrealEditor-GraphEditor.dll!SGraphNode::GetNodeTooltip() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphNode.cpp:634]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffb66b1f36 UnrealEditor-GraphEditor.dll!`SGraphNodeK2Base::GetComplexTooltip'::`2'::LocalUtils::IsToolTipVisible() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\KismetNodes\SGraphNodeK2Base.cpp:282]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffb665ae03 UnrealEditor-GraphEditor.dll!TBaseStaticDelegateInstance<EVisibility __cdecl(void),FDefaultDelegateUserPolicy,TWeakPtr<SGraphNodeK2Base,1> >::Execute() [D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Delegates\DelegateInstancesImpl.h:721]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe0d78592 UnrealEditor-SlateCore.dll!SlateAttributePrivate::TSlateAttributeBase<SWidget,EVisibility,SlateAttributePrivate::FSlateAttributeNoInvalidationReason,TSlateAttributeComparePredicate<TEqualTo<void> >,0>::FSlateAttributeGetterWrapper<SlateAttributePrivate::TSlateAttributeBase<SWidget,EVisibility,SlateAttributePrivate::FSlateAttributeNoInvalidationReason,TSlateAttributeComparePredicate<TEqualTo<void> >,0> >::UpdateAttribute() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Public\Types\Attributes\SlateAttributeBase.inl:579]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe0d7892c UnrealEditor-SlateCore.dll!FSlateAttributeMetaData::UpdateAttributesImpl() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Types\SlateAttributeMetaData.cpp:492]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe0d78af5 UnrealEditor-SlateCore.dll!FSlateAttributeMetaData::UpdateChildrenOnlyVisibilityAttributes() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Types\SlateAttributeMetaData.cpp:459]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe0d434a7 UnrealEditor-SlateCore.dll!SWidget::ArrangeChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1688]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe0bb8999 UnrealEditor-SlateCore.dll!FWidgetPath::SearchForWidgetRecursively<FWidgetMatcher>() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Public\Layout\WidgetPath.inl:29]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe0bb8a6b UnrealEditor-SlateCore.dll!FWidgetPath::SearchForWidgetRecursively<FWidgetMatcher>() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Public\Layout\WidgetPath.inl:37]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe0bb718c UnrealEditor-SlateCore.dll!FWidgetPath::GeneratePathToWidget<FWidgetMatcher>() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Public\Layout\WidgetPath.h:143]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe0bb5dcc UnrealEditor-SlateCore.dll!FWidgetPath::ExtendPathTo<FWidgetMatcher>() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Public\Layout\WidgetPath.h:108]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe0bf3023 UnrealEditor-SlateCore.dll!FSlateWindowHelper::FindPathToWidget() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Application\SlateWindowHelper.cpp:166]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe12164d2 UnrealEditor-Slate.dll!FSlateApplication::SetUserFocus() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:2484]
+[2022.11.12-02.21.28:257][353]LogOutputDevice: Error: [Callstack] 0x00007fffe1212ff6 UnrealEditor-Slate.dll!FSlateUser::SetFocus() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateUser.cpp:143]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007fffe11fbcfb UnrealEditor-Slate.dll!FSlateApplication::ProcessReply() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:3388]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007fffe12161a0 UnrealEditor-Slate.dll!FSlateApplication::SetUserFocus() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:2881]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007fffe1216710 UnrealEditor-Slate.dll!FSlateApplication::SetUserFocus() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:2701]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007fffe120eec0 UnrealEditor-Slate.dll!FSlateApplication::RoutePointerDownEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4888]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007fffe11f8b10 UnrealEditor-Slate.dll!FSlateApplication::ProcessMouseButtonDownEvent() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4777]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007fffe11ed169 UnrealEditor-Slate.dll!FSlateApplication::OnMouseDown() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:4675]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff85a57a992 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessDeferredMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2218]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff85a569247 UnrealEditor-ApplicationCore.dll!FWindowsApplication::DeferMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:2699]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff85a57ce51 UnrealEditor-ApplicationCore.dll!FWindowsApplication::ProcessMessage() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:1078]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff85a5649a7 UnrealEditor-ApplicationCore.dll!FWindowsApplication::AppWndProc() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsApplication.cpp:916]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff865c4e858 USER32.dll!UnknownFunction []
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff865c4e4ee USER32.dll!UnknownFunction []
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007fff989b7e59 InkObj.dll!UnknownFunction []
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff8514513b8 atlthunk.dll!UnknownFunction []
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff865c4e858 USER32.dll!UnknownFunction []
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff865c4e299 USER32.dll!UnknownFunction []
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff85a57e148 UnrealEditor-ApplicationCore.dll!FWindowsPlatformApplicationMisc::PumpMessages() [D:\build\++UE5\Sync\Engine\Source\Runtime\ApplicationCore\Private\Windows\WindowsPlatformApplicationMisc.cpp:138]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff70f297114 UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5139]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff70f2b0d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff70f2b0e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff70f2b3c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff70f2c5564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff70f2c8736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff867947034 KERNEL32.DLL!UnknownFunction []
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: [Callstack] 0x00007ff867a826a1 ntdll.dll!UnknownFunction []
+[2022.11.12-02.21.28:258][353]LogOutputDevice: Error: 
